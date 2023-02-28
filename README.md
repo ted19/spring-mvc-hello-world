@@ -1,4 +1,4 @@
-Spring MVC hello world example (Maven, Thymeleaf)
+Spring MVC (Maven, Thymeleaf)
 ===============================
 _P.S This tutorial is NOT a Spring Boot application, just pure Spring Web MVC!_
 
