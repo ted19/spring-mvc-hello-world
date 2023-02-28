@@ -10,7 +10,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jdk.version>17</jdk.version>
         <spring.version>5.3.25</spring.version>
-        <servletapi.version>4.0.4</servletapi.version>
+        <servletapi.version>4.0.1</servletapi.version>
         <thymeleaf.spring.version>3.1.1.RELEASE</thymeleaf.spring.version>
         <webjars.version>5.2.3</webjars.version>
         <hamcrest.version>2.2</hamcrest.version>
